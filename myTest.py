@@ -58,7 +58,7 @@ try:
     
     drawblack.text((2, 0), 'hello world', font = font18, fill = 0)
     drawblack.text((2, 20), '2.9inch epd bc', font = font18, fill = 0)
-    drawblack.text((20, 50), u'微雪电子', font = font18, fill = 0)
+    drawblack.text((20, 50), u'Erwin Industries', font = font18, fill = 0)
     drawblack.line((10, 90, 60, 140), fill = 0)
     drawblack.line((60, 90, 10, 140), fill = 0)
     drawblack.rectangle((10, 90, 60, 140), outline = 0)
