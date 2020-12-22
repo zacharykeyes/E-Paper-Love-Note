@@ -31,8 +31,8 @@ try:
     
     # Drawing on the Horizontal image
     logging.info("1.Drawing on the Horizontal image...") 
-    HBlackimage = Image.new('1', (epd.height, epd.width), 255)  # 298*126
-    HRYimage = Image.new('1', (epd.height, epd.width), 255)  # 298*126  ryimage: red or yellow image  
+    HBlackimage = Image.new('1', (epd.height, epd.width), 255)  #298*126
+    HRYimage = Image.new('1', (epd.height, epd.width), 255)  #298*126  ryimage: red or yellow image  
     drawblack = ImageDraw.Draw(HBlackimage)
     draw = ImageDraw.Draw(HRYimage)
     time.sleep(1)
