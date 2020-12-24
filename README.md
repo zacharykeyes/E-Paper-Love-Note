@@ -20,4 +20,4 @@ https://github.com/ikvk/imap_tools
 
 ## Case
 
-This was one of the areas that I was more comfortable in at the beginning of this project. 
+This was one of the areas that I was more comfortable in at the beginning of this project. I used OnShape a free CAD software with tons of video tutorials online. 
