@@ -3,8 +3,8 @@ import imaplib
 from imap_tools import A, AND, OR, NOT
 from datetime import date
 
-EMAIL = 'bernardprojects34046@gmail.com'
-PASSWORD = '8oY7m3SyLnyA'
+EMAIL = 'EMAIL'
+PASSWORD = 'PASSWORD'
 SERVER = 'imap.gmail.com'
 TIME = date.today()
 #TIME = '16/09/2019' #D/M/Y
