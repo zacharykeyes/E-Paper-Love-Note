@@ -20,4 +20,6 @@ https://github.com/ikvk/imap_tools
 
 ## Case
 
-This was one of the areas that I was more comfortable in at the beginning of this project. 
+This was one of the areas that I was more comfortable in at the beginning of this project. I used OnShape a free CAD software with tons of video tutorials online. 
+
+Most of the project involved measurments. Most of my time was spent using calipers and measuring things multiple times, however these schematics for the [rapsberry pi zero](https://i.stack.imgur.com/LHeqV.png), and the [e-Paper display]() from the manufactur website were very helpful.
