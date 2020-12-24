@@ -1,8 +1,5 @@
 # Smart Love Note 
-
-````
-input of code
-````
+This was an anniversary project for my girlfriend on our one year. Using a raspberry pi zero and a 2.9 inch E-paper display. The device output a message to a 2.9 inch E-Paper display updating multiple times a day with the ability to override the scheduled message displays. The stored text file can be added to and overridden for a 12 hour period. 
 
 ## Email   
 I started learning about how to pull emails from the Gmail client.
