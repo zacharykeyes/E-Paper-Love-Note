@@ -1,5 +1,5 @@
 # Smart Love Note 
-This was an anniversary project for my girlfriend on our one year. Using a raspberry pi zero and a 2.9 inch E-paper display. The device output a message to a 2.9 inch E-Paper display updating multiple times a day with the ability to override the scheduled message displays. The stored text file can be added to and overridden for a 12 hour period. 
+This was an anniversary project for my wonderful girlfriend. Using a raspberry pi zero and a 2.9 inch e-paper display, the device output a message from the stored message file to the display. Updating multiple times a day with the ability to override the scheduled love note display. The stored text file can be added to or overridden with a unique message for a 12 hour period that does not get saved to the love note file. 
 
 ## Email   
 I started learning about how to pull emails from the Gmail client.
@@ -25,4 +25,4 @@ This was a difficult part of coding for me, and out of my comfort zone for the m
 
 This was one of the areas that I was more comfortable in at the beginning of this project. I used OnShape a free CAD software with tons of video tutorials online. 
 
-Most of the design process involved measurements. Most of my time was spent using calipers and measuring things multiple times, however these schematics for the [raspberry pi zero](https://i.stack.imgur.com/LHeqV.png), and the [e-Paper display](https://www.waveshare.com/img/devkit/LCD/2.9inch-e-Paper-Module/2.9inch-e-Paper-Module-size.jpg) from the manufacture website were very helpful.
+Most of the design process involved measurements. Most of my time was spent using calipers and measuring things multiple times, however these schematics for the [raspberry pi zero](https://i.stack.imgur.com/LHeqV.png), and the [e-Paper display](https://www.waveshare.com/img/devkit/LCD/2.9inch-e-Paper-Module/2.9inch-e-Paper-Module-size.jpg) from the manufacture website were very helpful. The display was on a PCB with standoffs.
