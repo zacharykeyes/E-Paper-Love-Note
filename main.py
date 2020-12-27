@@ -12,6 +12,7 @@ def TextHandler(subject, content):
    else:
       print('Not a valid Email Subject')
 
+#Find messagesTo.txt file path in working directory
 cwd = os.getcwd()
 notedir = cwd + "\messagesTo.txt"
 

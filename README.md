@@ -5,7 +5,7 @@ This was an anniversary project for my wonderful girlfriend. Using a raspberry p
 I started learning about how to pull emails from the Gmail client.
 Using an article by [Humberto Rochas,](https://humberto.io/blog/sending-and-receiving-emails-with-python/) on sending and receiving emails with python gave me a great start for getting emails from gmail to python. 
 
-In order to get past Googles security I had to push past the security. To do that I navigated to 
+In order to get past Googles security I had to grant less secure app access. To do that I navigated to 
 ````Google Account settings > Security > Less Secure App Access ```` at the bottom of the page, set that to __on__. This got me past the ````[AUTHENTICATIONFAILED] Invalid credentials (Failure)```` error that Rochas example was giving me. 
 
 As for using the IMAP python function I found [this article](https://github.com/ikvk/imap_tools) very helpful with IMAP formatting. From there I was able to find a way to pull emails filtered my my name.
