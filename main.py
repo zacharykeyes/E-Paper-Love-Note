@@ -1,4 +1,4 @@
-import time, random, emailPull
+import time, random, emailPull, os
 # from emailPull import Read
 # import ReadEmail from emailPull
 
@@ -12,10 +12,11 @@ def TextHandler(subject, content):
    else:
       print('Not a valid Email Subject')
 
-location = "Python\Projects\Mollie-Board\messagesToMollie.txt"
+cwd = os.getcwd()
+notedir = cwd + "\messagesTo.txt"
 
-f = open(location, 'a') #append to end of file
-g = open(location, 'r') #read from beginning of text file
+f = open(notedir, 'a') #append to end of file
+g = open(notedir, 'r') #read from beginning of text file
 
 emails = emailPull.ReadEmail()
 # print(emails)
